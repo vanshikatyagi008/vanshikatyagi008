@@ -15,7 +15,7 @@ Building scalable web applications with clean architecture, secure APIs, and mod
 ```yaml
 Name: Vanshika Tyagi
 Role: Full Stack Developer
-Location: India 🇮🇳
+
 
 Languages:
   • C#
